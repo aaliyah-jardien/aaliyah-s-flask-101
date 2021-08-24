@@ -1,0 +1,13 @@
+setup & workflow
+get a basic app running
+templates and static content
+setting up & using database (sqlite)
+create a basic crud application
+deploy to heroku
+
+# setting up environment
+install python3 and pip
+install virtual environment package from pip
+create project directory
+create virtual environment
+install required packages
